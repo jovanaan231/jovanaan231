@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **PHP, Java, Javascript, and everything 🤣🤣**
 - 🥅 2022 Goals: Mastering the programming language that I am interested in.
-- ⚡ Fun fact **i like play games.**
+- ⚡ Fun fact: **i like play games.**
 - 🤝 Trying to do better.
 
 ## 🚀 Languages and Tools:
