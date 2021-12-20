@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, Jovan is here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/Y5ZOakO.jpeg" height="175px"/></a>
-<h3 align="center">I'm 19 year old and a student from Indonesia</h3>
+<h3 align="center">I'm 19 year old and a student from Indonesia.</h3>
 
 
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **PHP, Java, Javascript, and everything 🤣🤣**
-- 🥅 2022 Goals: Mastering the programming language that I am interested in
-- ⚡ Fun fact **i like play games**
-- 🤝 Trying to do better
+- 🥅 2022 Goals: Mastering the programming language that I am interested in.
+- ⚡ Fun fact **i like play games.**
+- 🤝 Trying to do better.
 
 ## 🚀 Languages and Tools:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
