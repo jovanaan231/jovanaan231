@@ -1,10 +1,11 @@
-<h1 align="center">Hi there, Jovan is Here👋</h1>
+<h1 align="center">Hi there, Jovan is here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">I'm 19 year old and a student from Multimedia Nusantara University</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovanaan231&label=Profile%20views&color=0e75b6&style=flat" alt="jovanaan231" /> </p>
 
 ---
-
-- 🌱 I’m currently learning **everthing**
+## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **PHP, Java, Pyhton, and everything 🤣**
 - ⚡ Fun fact **i like play games**
 
 ---
