@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, Jovan is here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<a href="#"><img width="100%" height="auto" src="https://imgur.com/2JZkmtH" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/2JZkmtH.gif" height="175px"/></a>
 <h3 align="center">I'm 19 year old and a student from Indonesia</h3>
-<blockquote class="imgur-embed-pub" lang="en" data-id="2JZkmtH"  ><a href="//imgur.com/2JZkmtH">MFW I&#39;m a programmer and I want my non-programmer boss to think I&#39;m working.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ## 🙋‍♂️ About Me
