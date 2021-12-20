@@ -14,8 +14,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovanaan231&show_icons=true&locale=en&layout=compact" alt="jovanaan231" /></p>
 
+## 📊 My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jovanaan231&show_icons=true&locale=en" alt="jovanaan231" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jovanaan231&" alt="jovanaan231" /></p>
 
 ## Connect with me:
