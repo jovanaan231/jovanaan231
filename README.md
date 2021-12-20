@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, Jovan is here <img src="https://imgur.com/2JZkmtH" width="30px"></h1>
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi there, Jovan is here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/2JZkmtH" height="175px"/></a>
 <h3 align="center">I'm 19 year old and a student from Indonesia</h3>
 
 
