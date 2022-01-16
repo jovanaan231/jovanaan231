@@ -18,7 +18,6 @@
 
 ## 📊 My Github Stats
 <br/>
- <a href="https://github-readme-stats.vercel.app/api?username=jovanaan231&show_icons=true&locale=en"><img alt="Jovan Haliem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jovanaan231&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=jovanaan231&"><img alt="Jovan Haliem's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanaan231&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br/>
  
