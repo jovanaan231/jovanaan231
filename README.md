@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jovanaan231&label=Profile%20views&color=0e75b6&style=flat" alt="jovanaan231" /> </p>
 
 ### 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Javascript, Golang, and everything**
+- 🌱 I’m currently learning **Laravel, UIPath, Testing software, and everything**
 - 🥅 2022 Goals: Mastering the programming language that I am interested in.
 - ⚡ Fun fact: **i like play games.**
 - 🤝 Trying to do better.
